@@ -1,3 +1,4 @@
+// console.log('wow')
 const customers = [
   {
     name: {
